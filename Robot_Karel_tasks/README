@@ -1,0 +1,4 @@
+This is set of exercises where we use special "world" with little robot Karel and we need to make him move and do tasks with simple commands. 
+he knows only move(), turn_left(), put_beeper() and take_beeper()
+and there also some conditions that he understands like if_beeper_present() or if_front_is_clear.
+On the first lesson in Code In Place we were constructing helper functions from this very limited set of commands.
