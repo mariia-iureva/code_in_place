@@ -1,0 +1,6 @@
+1. Running Total: Write a program that asks a user to continuously enter numbers and print out the running total, 
+the sum of all the numbers so far. Once you get the program working, see if you can modify it so that the program stops when the user enters a 0.
+
+2. FizzBuzz: In the game Fizz Buzz, players take turns counting up from one. If a player’s turn lands on a number that’s divisible by 3, 
+they should say fizz instead of the number, and if it lands on a number that’s divisible by 5, they should say buzz instead of the number. 
+If the number is both a multiple of 3 and of 5, they should say fizzbuzz instead of the number. 
